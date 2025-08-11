@@ -12,7 +12,7 @@ An intelligent tool that evaluates and improves AI prompts using a 5-star rating
 AI evaluation systems often have blurred rating criteria. I refined the evaluation framework to provide consistent, meaningful ratings that users can trust and act upon.
 
 ## Try It Live
-[Link will go here after deployment]
+https://ai-prompt-optimizer-3k3bux9fj5pm969xrr2gde.streamlit.app/
 
 ## Setup Locally
 1. Install requirements: `pip install -r requirements.txt`
